@@ -1,2 +1,2 @@
 # my-p5-game
-I don't own this
+This is a very random game which is still in progress...
